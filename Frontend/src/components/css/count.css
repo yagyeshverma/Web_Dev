@@ -1,0 +1,11 @@
+.NumOfRestro {
+  font-size: 2rem;
+  margin-top: 4%;
+  color:rgba(227, 135, 15, 1.0);
+  background-image: linear-gradient(0deg,#d8cece);
+}
+
+.Restro {
+  font-size: 1.8rem;
+  margin-top: 4%;
+}
